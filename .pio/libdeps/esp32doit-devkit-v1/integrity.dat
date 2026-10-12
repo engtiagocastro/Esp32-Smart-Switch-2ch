@@ -1,0 +1,6 @@
+adafruit/Adafruit Unified Sensor@^1.1.14
+bblanchon/ArduinoJson@^7.2.0
+z3t0/IRremote@3.5.0
+adafruit/DHT sensor library@^1.4.6
+marvinroger/AsyncMqttClient @ ^0.9.0
+tzapu/WiFiManager@^2.0.17
